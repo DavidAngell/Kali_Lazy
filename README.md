@@ -14,7 +14,7 @@ bash install.sh
 
 # **Usage**
  ```bash
-$ lazy
+lazy
 ```
 
 ### **Script Sources**
